@@ -1,0 +1,48 @@
+# > iQIYI
+DOMAIN-SUFFIX,iq.com
+DOMAIN,intl.iqiyi.com
+DOMAIN,intl-rcd.iqiyi.com
+DOMAIN,intl-subscription.iqiyi.com
+IP-CIDR,103.5.34.153/32,no-resolve
+IP-CIDR,104.109.129.153/32,no-resolve
+IP-CIDR,110.238.107.47/32,no-resolve
+IP-CIDR,118.26.32.178/32,no-resolve
+IP-CIDR,203.74.95.131/32,no-resolve
+IP-CIDR,203.74.95.139/32,no-resolve
+IP-CIDR,203.211.4.169/32,no-resolve
+IP-CIDR,203.211.4.193/32,no-resolve
+IP-CIDR,210.201.32.8/32,no-resolve
+IP-CIDR,210.201.32.11/32,no-resolve
+# > Bahamut
+USER-AGENT,Anime*
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,hinet.net
+# > KKTV
+USER-AGENT,KKTV*
+USER-AGENT,com.kktv.ios.kktv*
+DOMAIN,kktv-theater.kk.stream
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+# > Line TV
+USER-AGENT,LINE%20TV*
+USER-AGENT,LINE*
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
+DOMAIN-SUFFIX,linetv.tw
+# > 台湾好
+USER-AGENT, TaiwanGood*
+DOMAIN-SUFFIX, skyking.com.tw
+DOMAIN, hamifans.emome.net
+# > friDay
+USER-AGENT,friDay*
+DOMAIN-SUFFIX,friday.tw
+# > CATCHPLAY+
+USER-AGENT,CATCHPLAY*
+DOMAIN-SUFFIX,catchplay.com
+DOMAIN,asiaplay-origin.s3.amazonaws.com
+DOMAIN,tra-ww000-cp.akamaized.net
+DOMAIN,ols-ww000-cp.akamaized.net
+DOMAIN,ols-ww100-cp.akamaized.net
