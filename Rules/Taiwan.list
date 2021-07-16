@@ -39,6 +39,9 @@ DOMAIN, hamifans.emome.net
 # > friDay
 USER-AGENT,friDay*
 DOMAIN-SUFFIX,friday.tw
+# > myVideo
+USER-AGENT,myVideo*
+DOMAIN-SUFFIX,myvideo.net.tw
 # > CATCHPLAY+
 USER-AGENT,CATCHPLAY*
 DOMAIN-SUFFIX,catchplay.com
