@@ -2,12 +2,6 @@
 USER-AGENT,Naver%20TV*
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,smartmediarep.com
-
-# > Vlive
-USER-AGENT,Vlive*
-DOMAIN-SUFFIX,vlive.tv
-DOMAIN,livecloud.akamaized.net
-
 # > UNIVERSE
 USER-AGENT,UNIVERSE*
 DOMAIN-SUFFIX,universe-official.io
