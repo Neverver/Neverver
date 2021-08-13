@@ -52,3 +52,5 @@ DOMAIN,ols-ww100-cp.akamaized.net
 # > LiTV
 DOMAIN-SUFFIX,litv.tv
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+# > 公视+
+DOMAIN-SUFFIX,ptsplus.tv
