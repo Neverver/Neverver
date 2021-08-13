@@ -54,3 +54,6 @@ DOMAIN-SUFFIX,litv.tv
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 # > 公视+
 DOMAIN-SUFFIX,ptsplus.tv
+# > Dcard
+DOMAIN-SUFFIX, dcard.tw
+DOMAIN, i.imgur.com
