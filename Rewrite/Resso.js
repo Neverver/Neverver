@@ -1,4 +1,4 @@
-hostname = api.resso.app
+hostname = *.resso.app
 
 #Resso
-?<=(carrier|account|sys|sim)_region=)cn url 307 in
+(?<=(carrier|account|sys|sim)_region=)cn url 307 in
