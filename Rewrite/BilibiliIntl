@@ -1,0 +1,5 @@
+hostname = app.biliintl.com
+
+#Bilibili
+(^https?:\/\/app\.biliintl.com\/intl\/.+)(&s_locale=zh-Hans_[A-Z]{2})(.+) url 302 $1&s_locale=en-US_US$3
+(^https?:\/\/app\.biliintl.com\/intl\/.+)(&sim_code=\d+)(.+) url 302 $1$3
